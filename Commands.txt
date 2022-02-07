@@ -1,0 +1,3 @@
+Address: v1.fxnode.ru
+Port: 7510
+Requests:  auth g483-bessonova hDGftg

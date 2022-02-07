@@ -1,0 +1,4 @@
+id node: node 3
+coordinaties: 385 167
+
+Radius: 10

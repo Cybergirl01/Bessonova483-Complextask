@@ -1,0 +1,4 @@
+id node: node 4
+coordinaties: 354 128
+
+Radius: 10

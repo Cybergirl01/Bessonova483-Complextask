@@ -1,0 +1,4 @@
+id node: node 5
+coordinaties: 336 208
+
+Radius: 10

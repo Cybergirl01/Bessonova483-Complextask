@@ -1,0 +1,16 @@
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\bin\Debug\Bessonova483 - Complex.exe.config
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\bin\Debug\Bessonova483 - Complex.exe
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\bin\Debug\Bessonova483 - Complex.pdb
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\obj\Debug\Bessonova483 - Complex.csproj.AssemblyReference.cache
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\obj\Debug\Bessonova483___Complex.FormMain.resources
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\obj\Debug\Bessonova483___Complex.Properties.Resources.resources
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\obj\Debug\Bessonova483 - Complex.csproj.GenerateResource.cache
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\obj\Debug\Bessonova483 - Complex.csproj.CoreCompileInputs.cache
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\obj\Debug\Bessonova483 - Complex.exe
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\obj\Debug\Bessonova483 - Complex.pdb
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\obj\Debug\Bessonova483___Complex.FormMESH.resources
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\obj\Debug\Bessonova483___Complex.FormTCP.resources
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\obj\Debug\Bessonova483___Complex.FormMatrix.resources
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\obj\Debug\Bessonova483___Complex.FormMsg.resources
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\obj\Debug\Bessonova483___Complex.Formmatrixofnode2.resources
+F:\мои данные\vs\Bessonova483 - Complex\Bessonova483 - Complex\obj\Debug\Bessonova483___Complex.Formnode3matrix.resources
